@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi there, I'm Nat 👋
 
-<!--
-**natadh/natadh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Applied Computer Technology Graduate | Cybersecurity & Machine Learning**
 
-Here are some ideas to get you started:
+I am a recent graduate with a concentration in Cybersecurity who enjoys developing practical tools with Python and applying machine learning as part of security concepts. I have a passion for developing solutions that tie security to data science..
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Skills
+
+**Programming & Data Analysis**
+`Python` `R` `Pandas` `Scikit-learn` `TensorFlow` `Jupyter` `RStudio`
+
+**Cybersecurity Domains**
+`Threat Detection` `Network Security` `Phishing Analysis` `ML for Security`
+
+**Tools & Platforms**
+`Git` `Linux` `API Development` `Data Visualization`
+
+## 🔬 Featured Projects
+
+### [Phishing Detection API](https://github.com/natadh/Phishing_detector_api)
+A Python-based API that utilizes ensemble machine learning methods to analyze and classify potentially malicious URLs.
+
+### [APT3025 Machine Learning](https://github.com/natadh/APT3025-MachineLearning-)
+Machine learning models for detecting and analyzing Advanced Persistent Threats (APTs).
+
+### [Artificial Neural Networks in R](https://github.com/natadh/ANN-in-R)
+Implementation of neural networks in R for pattern recognition and classification tasks.
+
+### [Decision Tree Classifiers](https://github.com/natadh/Decision_Trees)
+Exploration of decision tree algorithms with implementations for entropy calculation and information gain.
+
+## 🌱 Currently Learning
+- `Cloud Security` `AWS/Azure Security` `Container Security`
+
+## ⚡ Fun Fact
+What fascinates me is the relationship between cybersecurity principles and our physical security - it’s all about protecting what we value!
+
+## 📈 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=natadh&show_icons=true&hide_border=true&theme=default)
+
+---
+
+**Connect with me:** [LinkedIn](https://www.linkedin.com/in/natalie-adhiambo-290789334) | [Email](mailto:talieadhiambo@gmail.com)
+
+*Open to discussing security research, machine learning applications, and new opportunities.*
