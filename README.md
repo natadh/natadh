@@ -18,7 +18,7 @@ I am a recent graduate with a concentration in Cybersecurity who enjoys developi
 ## 🔬 Featured Projects
 
 ### [Phishing Detection API](https://github.com/natadh/Phishing_detector_api)
-A Python-based API that utilizes ensemble machine learning methods to analyze and classify potentially malicious URLs.
+A Python-based API that utilizes ensemble machine learning methods to analyze and classify potentially malicious URLs in emails.
 
 ### [APT3025 Machine Learning](https://github.com/natadh/APT3025-MachineLearning-)
 Machine learning models for detecting and analyzing Advanced Persistent Threats (APTs).
@@ -35,11 +35,6 @@ Exploration of decision tree algorithms with implementations for entropy calcula
 ## ⚡ Fun Fact
 What fascinates me is the relationship between cybersecurity principles and our physical security - it’s all about protecting what we value!
 
-## 📈 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=natadh&show_icons=true&hide_border=true&theme=default)
-
----
 
 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/natalie-adhiambo-290789334) | [Email](mailto:talieadhiambo@gmail.com)
 
