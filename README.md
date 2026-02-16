@@ -2,7 +2,7 @@
 
 **Applied Computer Technology Graduate | Cybersecurity & Machine Learning**
 
-I am a recent graduate with a concentration in Cybersecurity who enjoys developing practical tools with Python and applying machine learning as part of security concepts. I have a passion for developing solutions that tie security to data science..
+I am a recent graduate with a concentration in Cybersecurity who enjoys developing practical tools with Python and applying machine learning as part of security concepts. I have a passion for developing solutions that tie security to data science.
 
 ## 🛠️ Technical Skills
 
@@ -30,7 +30,7 @@ Implementation of neural networks in R for pattern recognition and classificatio
 Exploration of decision tree algorithms with implementations for entropy calculation and information gain.
 
 ## 🌱 Currently Learning
-- `Cloud Security` `AWS/Azure Security` `Container Security`
+- `Cloud Security` `WP`
 
 ## ⚡ Fun Fact
 What fascinates me is the relationship between cybersecurity principles and our physical security - it’s all about protecting what we value!
