@@ -36,6 +36,6 @@ Exploration of decision tree algorithms with implementations for entropy calcula
 What fascinates me is the relationship between cybersecurity principles and our physical security - it’s all about protecting what we value!
 
 
-**Connect with me:** [LinkedIn](https://www.linkedin.com/in/natalie-adhiambo-290789334) | [Email](mailto:talieadhiambo@gmail.com)
+**Connect with me:** [LinkedIn](https://www.linkedin.com/in/natalie-adhiambo-290789334) 
 
 *Open to discussing security research, machine learning applications, and new opportunities.*
