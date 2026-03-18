@@ -1,41 +1,44 @@
-# Hi there, I'm Nat 👋
+# Hi, I'm Natalie 👋
 
-**Applied Computer Technology Graduate | Cybersecurity & Machine Learning**
+**Applied Computer Technology Graduate · Cybersecurity & Machine Learning · Nairobi/Mombasa, Kenya**
 
-I am a recent graduate with a concentration in Cybersecurity who enjoys developing practical tools with Python and applying machine learning as part of security concepts. I have a passion for developing solutions that tie security to data science.
+I build tools that sit at the intersection of security and data — from phishing detection systems trained on real email data to frontend features for live travel platforms. I'm drawn to problems where ML can do something that rules-based systems can't.
 
-## 🛠️ Technical Skills
+---
 
-**Programming & Data Analysis**
-`Python` `R` `Pandas` `Scikit-learn` `TensorFlow` `Jupyter` `RStudio`
-
-**Cybersecurity Domains**
-`Threat Detection` `Network Security` `Phishing Analysis` `ML for Security`
-
-**Tools & Platforms**
-`Git` `Linux` `API Development` `Data Visualization`
-
-## 🔬 Featured Projects
+## 🔬 Projects
 
 ### [Phishing Detection API](https://github.com/natadh/Phishing_detector_api)
-A Python-based API that utilizes ensemble machine learning methods to analyze and classify potentially malicious URLs in emails.
+ML ensemble that classifies emails as phishing or legitimate, trained on 82,000+ emails. Deployed as a Microsoft Outlook add-in. Built with Python, scikit-learn, and a REST API layer.
 
-### [APT3025 Machine Learning](https://github.com/natadh/APT3025-MachineLearning-)
-Machine learning models for detecting and analyzing Advanced Persistent Threats (APTs).
+### [Alemans Adventures](https://github.com/natadh/ALEMANS-ADVENTURES-Updated)
+Frontend contributor on a live East African safari booking platform. Built the contact page, initial journals and reviews page architecture, and structured JSON data for safari destinations across Rwanda and Zanzibar. Built with React + TypeScript.
+
+### [APT3025 — Threat Detection with ML](https://github.com/natadh/APT3025-MachineLearning-)
+Machine learning models for detecting Advanced Persistent Threats. Covers feature engineering from network logs and classification of attack patterns.
 
 ### [Artificial Neural Networks in R](https://github.com/natadh/ANN-in-R)
-Implementation of neural networks in R for pattern recognition and classification tasks.
+Neural network implementation in R for pattern recognition and classification tasks.
 
 ### [Decision Tree Classifiers](https://github.com/natadh/Decision_Trees)
-Exploration of decision tree algorithms with implementations for entropy calculation and information gain.
+From-scratch exploration of entropy, information gain, and decision tree construction — not just using the sklearn API.
 
-## 🌱 Currently Learning
-- `Cloud Security` `WP`
+---
 
-## ⚡ Fun Fact
-What fascinates me is the relationship between cybersecurity principles and our physical security - it’s all about protecting what we value!
+## 🛠️ Technical skills
 
+**Languages:** Python · TypeScript  
+**ML/Data:** scikit-learn · TensorFlow · Pandas · Jupyter  
+**Security:** Threat detection · Phishing analysis · ML for security  
+**Frontend:** React · Vite  
+**Tools:** Git · Linux · REST APIs · Microsoft Office Add-ins  
 
-**Connect with me:** [LinkedIn](https://www.linkedin.com/in/natalie-adhiambo-290789334) 
+---
 
-*Open to discussing security research, machine learning applications, and new opportunities.*
+## 🌱 Currently building on
+`Cloud Security` · `API Development` · `Expanding phishing detection to multi-platform`
+
+---
+
+## 📫 Connect
+[LinkedIn](https://www.linkedin.com/in/natalie-adhiambo-290789334) · Open to opportunities in cybersecurity, ML engineering, and security research.
